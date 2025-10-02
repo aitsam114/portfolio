@@ -47,8 +47,7 @@ Agile | Jira | Scrum | CI/CD | Firebase | Atlassian | ASO
 
 ## Key Projects
 
-### Stats 24 
-[Publication](https://play.google.com/store/apps/details?id=com.stats.sixlogics)
+### [Stats 24](https://play.google.com/store/apps/details?id=com.stats.sixlogics)
 
 - An app for sports insights & betting predictions having AI models, live analytics for odds/markets.
 - Impact + Tech: Achieved 500K+ downloads and 4.4★ rating on Google Play Store.
