@@ -1,6 +1,7 @@
 # Mobile Application Architect | Senior Android Developer
 
-Flutter | JAVA | Kotlin | C++ Software Engineer | SaaS | Payments | Agile | Jira | Scrum Master | CI/CD | Firebase | Atlassian | ASO expert
+Flutter | JAVA | Kotlin | C++ Software Engineer | SaaS | Payments | 
+Agile | Jira | Scrum Master | CI/CD | Firebase | Atlassian | ASO expert
 
 ## Technical Skills
 - Languages: Java, Kotlin, Dart, Flutter cross platform, C++
@@ -40,9 +41,9 @@ Flutter | JAVA | Kotlin | C++ Software Engineer | SaaS | Payments | Agile | Jira
 
 ## Education & Certifications
 
-- BS (Bachelors of Computer Science) – FAST-NUCES, Lahore        2013 – 2017
-- AI and Monitoring System for farming (Final Year Project)      FAST-NUCES
-- Project Initiation & Agile Project Management                  Udemy
+- 2013 – 2017 - FAST-NUCES, Lahore - BS (Bachelors of Computer Science)        
+- FYP - FAST-NUCES - AI and Monitoring System for farming (Final Year Project)      
+- Udemy - Project Initiation & Agile Project Management                  
 
 
 
