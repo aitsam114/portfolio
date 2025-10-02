@@ -1,7 +1,7 @@
 # Mobile Application Architect | Senior Android Developer
 
-Flutter | JAVA | Kotlin | C++ Software Engineer | SaaS | Payments | 
-Agile | Jira | Scrum Master | CI/CD | Firebase | Atlassian | ASO expert
+Flutter | JAVA | Kotlin | C++ | SaaS | Payments | 
+Agile | Jira | Scrum | CI/CD | Firebase | Atlassian | ASO 
 
 ## Technical Skills
 - Languages: Java, Kotlin, Dart, Flutter cross platform, C++
@@ -44,6 +44,46 @@ Agile | Jira | Scrum Master | CI/CD | Firebase | Atlassian | ASO expert
 - 2013 – 2017 - FAST-NUCES, Lahore - BS (Bachelors of Computer Science)        
 - FYP - FAST-NUCES - AI and Monitoring System for farming (Final Year Project)      
 - Udemy - Project Initiation & Agile Project Management                  
+
+## Key Projects
+
+### Stats 24 
+- An app for sports insights & betting predictions having AI models, live analytics for odds/markets.
+- Impact + Tech: Achieved 500K+ downloads and 4.4★ rating on Google Play Store.
+- Tech: Java, Sockets, REST APIs, Prediction Models, Firebase Analytics, Live data.
+
+### Vloo App ( SaaS based subscriptions)
+- An editing app offering tools to make banners, videos and transitions with screen mirror features for Android TV screens. Integrated Canva API filters graphics modules for end-to-end editing.
+- Impact: Delivered a creative tool for fast, accessible video editing on mobile.
+- Tech: Flutter, Canva, Screen Mirror on TV, Google Subscriptions, Media Frameworks, Cloud Storage, payment SDKs.
+
+### CleverCost ( CRMS based subscriptions)
+- An expense management system with CMS integration, SaaS-based subscriptions, and dashboards.
+- Impact: Reached 1K+ downloads on Google Play, adopted by SMEs for expense/cost tracking.
+- Tech: Kotlin, Coroutines, MVVM, Retrofit, FCM, CMS, SaaS, Subscription Management, SQLite, Room, Firebase Realtime Database, GA4, Flurry Analytics..
+
+### Park4U
+- A smart solution to manage parkings, payments, and traffic using Google Maps APIs and QuickPay.
+- Impact: Crossed 25K+ downloads combined on Google & Apple Play Stores.
+- Tech: Java, Payment Gateways, Google Maps API, Location Services, car scanning and animations.
+
+### PlayerMatch
+- A sports networking platform connecting players, coaches, clubs, and agents. It has news feed, match live scoring book, chats and many more. Built in media upload (video & image)
+- Impact: Surpassed 30K+ downloads, adopted by athletes, coaches, and clubs to find talent.
+- Tech: Java, CAPTCHAs, Push Notifications, Real-time Streaming, REST APIs, live data, chat bots, sockets, signal R, news feed, cloud based video uploads.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
