@@ -14,6 +14,7 @@ Agile | Jira | Scrum | CI/CD | Firebase | Atlassian | ASO
 ## PROFESSIONAL EXPERIENCE
 
 ### Senior Mobile Application Developer | Venture DK – Lahore Jan 2023 – Sep 2025
+![Venture DK](/assets/img/ic_venture_dk.jpeg) 
 
 - Drove 5M+ installs and scaled user retention by 80%, spanning Android and Flutter apps.
 - Optimization by 30% on legacy projects and reduced crashes by 75% with CI/CD pipelines, and QA.
@@ -22,6 +23,7 @@ Agile | Jira | Scrum | CI/CD | Firebase | Atlassian | ASO
 
  
 ### Senior Android Developer | Sixlogics – Lahore Jan 2018 – Jan 2023
+![Sixlogics](/assets/img/ic_sixlogics.jpeg) 
 
 - Engineered and shipped 10+ Android apps, boosting client adoption to 50K+ users and increased Ads revenue by 15%. Reduced sprint cycle time by 20% through Agile optimization.
 - Integrated analytics (GA4, Flurry, Firebase) for user insights.
@@ -29,11 +31,13 @@ Agile | Jira | Scrum | CI/CD | Firebase | Atlassian | ASO
 
 
 ### Junior Smart Application Developer (IoT Devices) | RoboArts Inc – Lahore May 2017 – Aug 2017
+![RoboArts](/assets/img/ic_roboart.jpeg) 
 
 - Assisted in IoT mobile applications Car Chabi with 10k+ downloads with BLE and GATT protocols, enabling device-app communication. Implemented smart app solutions to link cars and mobiles.
 
 
 ### Intern Android Developer | RufTechs – Lahore  Nov 2016 – May 2017
+![RufTechs](/assets/img/ic_ruftechs.png) 
 
 - Learned to work on a mobile app Doctor Connect with 10k+ downloads.
 - Strengthened debugging and code optimization skills in an agile startup environment.
@@ -41,9 +45,14 @@ Agile | Jira | Scrum | CI/CD | Firebase | Atlassian | ASO
 
 ## Education & Certifications
 
-- 2013 – 2017 - FAST-NUCES, Lahore - BS (Bachelors of Computer Science)        
-- FYP - FAST-NUCES - AI and Monitoring System for farming (Final Year Project)      
 - Udemy - Project Initiation & Agile Project Management                  
+- 2013 – 2017 - FAST-NUCES, Lahore - BS (Bachelors of Computer Science)
+- FYP - FAST-NUCES - AI and Monitoring System for farming (Final Year Project)
+  ![FAST](/assets/img/ic_FAST.png) 
+
+- 2010 – 2012 - GC University, Lahore - F.Sc. (Matric)
+ ![GCU](/assets/img/ic_gc.png) 
+    
 
 ## Key Projects
 
@@ -152,7 +161,7 @@ Agile | Jira | Scrum | CI/CD | Firebase | Atlassian | ASO
 - Linguitive is a vocabulary builder app for tourists to learn, read & listen phrases of language in interactive and user friendly design in fun and easy way in desired pace.
 - Inapp Purchase, handling zipped data and GSON.
 
-![Linguitive Icon](/assets/img/ic_linguitive.png) 
+![Linguitive Icon](/assets/img/ic_linguitive.jpeg) 
 
 
 ### PlayerMatch (Removed by Google)
