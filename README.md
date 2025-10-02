@@ -113,10 +113,10 @@ Agile | Jira | Scrum | CI/CD | Firebase | Atlassian | ASO
 - It had almost 300+ downloads before it was removed from google. That was a heck of an achievement.
 
 ### Ticket Hunt
-Ticket Hunt is a ticket booking app for people to book best tickets depending on their needs from list of online tickets in safe and strictly private manner.
+- Ticket Hunt is a ticket booking app for people to book best tickets depending on their needs from list of online tickets in safe and strictly private manner.
 
 ### SunLounger
-Sun Lounger is an assistive hotel booking application for tourists to book sun loungers in the hotel they are staying and get sun baths without any reasons.
+- Sun Lounger is an assistive hotel booking application for tourists to book sun loungers in the hotel they are staying and get sun baths without any reasons.
 
 ### ConnectDoctors.com
 - Connect doctors is a social platform for doctors to communicate their cases with each other and get to know how will they treat patients. They can upload researches and get approval from round the world on this platform.
